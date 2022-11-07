@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MSchwab22
 - 👀 I’m interested in cybersecurity.  
-- 🌱 I’m currently learning about cybersecuirty at Butler University.  
+- 🌱 I’m currently learning about cybersecuirty at Fullstack Academy. 
 - 💞️ I’m looking to collaborate on anything IT.
 - 📫 How to reach me monica.schwab22@gmail.com
 
